@@ -1,5 +1,6 @@
 # discord-count-game-bot
-A simple count game discord bot
+A simple count game discord bot<br>
+Feel free to use and modify it how ever you want.
 <br>
 <h3>Requirements</h3>
 Discord Bot Token from <strong>https://discord.com/developers/applications</strong><br>
