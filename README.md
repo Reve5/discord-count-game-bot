@@ -7,7 +7,6 @@ Discord Bot Token from <strong>https://discord.com/developers/applications</stro
 - Important: Enable the <strong>MESSAGE CONTENT INTENT</strong> in your bot application<br>
 Node.js from <strong>https://nodejs.org/en</strong><br>
 - Bot was created with the version 20.12.1<br>
-<br>
 <h3>Installation</h3>
 1. Put the files into an empty folder.<br>
 2. Initalize the project with <strong>npm init</strong>.<br>
