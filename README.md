@@ -9,7 +9,7 @@ Node.js from [nodejs.org](https://nodejs.org/en/)
 <br>
 <h3>Installation</h3>
 1. Put the files into an empty folder.<br>
-2. Initalize the project with <bold>npm init</bold>.<br>
-3. Install <bold>discord.js</bold> and <bold>fs</bold> with <bold>npm install discord.js fs</bold>.<br>
-4. Configurate the <bold>config.json</bold> file.<br>
-5. Run the bot with <bold>node index.js</bold> or <bold>node .</bold>.
+2. Initalize the project with <strong>npm init</strong>.<br>
+3. Install <strong>discord.js</strong> and <strong>fs</strong> with <strong>npm install discord.js fs</strong>.<br>
+4. Configurate the <strong>config.json</strong> file.<br>
+5. Run the bot with <strong>node index.js</strong> or <strong>node .</strong>.
