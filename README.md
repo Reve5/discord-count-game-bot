@@ -2,10 +2,10 @@
 A simple count game discord bot
 <br>
 <h3>Requirements</h3>
-Discord Bot Token from [Discord Developer Portal](https://discord.com/developers/applications)
-- Important: Enable the "MESSAGE CONTENT INTENT" in your bot application
-Node.js from [nodejs.org](https://nodejs.org/en/)
-- Bot was created at the version 20.12.1
+Discord Bot Token from [Discord Developer Portal](https://discord.com/developers/applications)<br>
+- Important: Enable the "MESSAGE CONTENT INTENT" in your bot application<br>
+Node.js from [nodejs.org](https://nodejs.org/en/)<br>
+- Bot was created at the version 20.12.1<br>
 <br>
 <h3>Installation</h3>
 1. Put the files into an empty folder.<br>
