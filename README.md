@@ -5,7 +5,7 @@ A simple count game discord bot
 Discord Bot Token from <strong>https://discord.com/developers/applications</strong><br>
 - Important: Enable the <strong>MESSAGE CONTENT INTENT</strong> in your bot application<br>
 Node.js from <strong>https://nodejs.org/en</strong><br>
-- Bot was created at the version 20.12.1<br>
+- Bot was created with the version 20.12.1<br>
 <br>
 <h3>Installation</h3>
 1. Put the files into an empty folder.<br>
